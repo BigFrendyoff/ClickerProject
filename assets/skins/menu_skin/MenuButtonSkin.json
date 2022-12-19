@@ -1,0 +1,45 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	questsButtonDown: {
+		name: questsButton
+		color: {
+			r: 0.39215687
+			g: 0.36862746
+			b: 0.36862746
+			a: 1
+		}
+	}
+	skillsButtonDown: {
+		name: skillsButton
+		color: {
+			r: 0.28627452
+			g: 0.25882354
+			b: 0.25882354
+			a: 1
+		}
+	}
+	statisticsButtonDown: {
+		name: statisticsButton
+		color: {
+			r: 0.28627452
+			g: 0.25882354
+			b: 0.25882354
+			a: 1
+		}
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	QuestButton: {
+		imageUp: questsButton
+		imageDown: questsButtonDown
+	}
+	SkillsButton: {
+		imageUp: skillsButton
+		imageDown: skillsButtonDown
+	}
+	StatsButton: {
+		imageUp: statisticsButton
+		imageDown: statisticsButtonDown
+	}
+}
+}

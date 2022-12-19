@@ -1,0 +1,27 @@
+
+MenuButtonSkin.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+questsButton
+  rotate: false
+  xy: 1, 703
+  size: 700, 608
+  orig: 700, 608
+  offset: 0, 0
+  index: -1
+skillsButton
+  rotate: false
+  xy: 1, 1
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+statisticsButton
+  rotate: false
+  xy: 703, 1161
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

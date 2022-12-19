@@ -1,0 +1,40 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	MedievalTimes-AL7l6: {
+		file: MedievalTimes-AL7l6.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_146_137_137_255: {
+		r: 0.57254905
+		g: 0.5372549
+		b: 0.5372549
+		a: 1
+	}
+	RGBA_227_230_36_255: {
+		r: 0.8901961
+		g: 0.9019608
+		b: 0.14117648
+		a: 1
+	}
+	RGBA_241_231_231_255: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+	RGBA_53_44_44_255: {
+		r: 0.20784314
+		g: 0.17254902
+		b: 0.17254902
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: MedievalTimes-AL7l6
+		fontColor: RGBA_227_230_36_255
+		disabledFontColor: RGBA_146_137_137_255
+	}
+}
+}

@@ -1,0 +1,34 @@
+
+skillTextSkin.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+DEMORA
+  rotate: false
+  xy: 1, 412
+  size: 505, 35
+  orig: 505, 35
+  offset: 0, 0
+  index: -1
+Iron Wall
+  rotate: false
+  xy: 1, 449
+  size: 506, 56
+  orig: 506, 56
+  offset: 0, 0
+  index: -1
+MedievalTimes-AL7l6
+  rotate: false
+  xy: 1, 370
+  size: 505, 40
+  orig: 505, 40
+  offset: 0, 0
+  index: -1
+icons8-plus-64
+  rotate: false
+  xy: 1, 304
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

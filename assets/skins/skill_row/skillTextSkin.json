@@ -1,0 +1,55 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	DEMORA: {
+		file: DEMORA.fnt
+	}
+	Iron_Wall: {
+		file: Iron Wall.fnt
+	}
+	MedievalTimes-AL7l6: {
+		file: MedievalTimes-AL7l6.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_17_15_15_255: {
+		r: 0.06666667
+		g: 0.05882353
+		b: 0.05882353
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	icons8-plus-64_down: {
+		name: icons8-plus-64
+		color: {
+			r: 0.35686275
+			g: 0.30980393
+			b: 0.30980393
+			a: 1
+		}
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: {
+		imageUp: icons8-plus-64
+		imageDown: icons8-plus-64_down
+	}
+	addSkillButton: {
+		imageUp: icons8-plus-64
+		imageDown: icons8-plus-64_down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: DEMORA
+	}
+	skillText: {
+		font: MedievalTimes-AL7l6
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+}

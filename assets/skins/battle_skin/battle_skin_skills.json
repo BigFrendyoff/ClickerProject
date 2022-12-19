@@ -1,0 +1,48 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	Icon1_down: {
+		name: Icon1
+		color: {
+			r: 0.4862745
+			g: 0.43137255
+			b: 0.43137255
+			a: 1
+		}
+	}
+	fireSword_down: {
+		name: fireSword
+		color: {
+			r: 0.40392157
+			g: 0.3529412
+			b: 0.3529412
+			a: 1
+		}
+	}
+	heavenShield_down: {
+		name: heavenShield
+		color: {
+			r: 0.39215687
+			g: 0.34901962
+			b: 0.34901962
+			a: 1
+		}
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	heavenShield: {
+		imageUp: heavenShield
+		imageDown: heavenShield_down
+		imageDisabled: heavenShield_down
+	}
+	healingPotion: {
+		imageUp: Icon1
+		imageDown: Icon1_down
+		imageDisabled: Icon1_down
+	}
+	fireSword: {
+		imageUp: fireSword
+		imageDown: fireSword_down
+		imageDisabled: fireSword_down
+	}
+}
+}

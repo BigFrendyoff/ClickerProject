@@ -1,0 +1,19 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	swords_down: {
+		name: swords
+		color: {
+			r: 0.25490198
+			g: 0.20392157
+			b: 0.20392157
+			a: 1
+		}
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: {
+		imageUp: swords
+		imageDown: swords_down
+	}
+}
+}
